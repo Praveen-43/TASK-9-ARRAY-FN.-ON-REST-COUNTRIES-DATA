@@ -1,2 +1,3 @@
-# TASK-9-ARRAY-FN.-ON-REST-COUNTRIES-DATA
-Solving problems using array functions on the rest countries data 
+# Day-9-Zen-Task
+
+1. Solving problems using array functions on rest countries data
